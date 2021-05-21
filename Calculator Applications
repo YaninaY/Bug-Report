@@ -1,0 +1,91 @@
+1. ID: С1
+Summary: The button "2" is bigger than another ones
+2. Description: 
+Reproduced on: Windows 10
+Actual result: The font of the button "2" larger than another button numbers
+Expected result: All numbers must have the same size
+3. Steps to reproduce:
+Open calc.exe
+4. Severity:
+Minor
+5. Priority:
+Low
+6. Reproducible:
+Always
+7. Symptom:
+Cosmetic flaw
+
+1. ID: С2
+Summary: The button "9" is disabled
+2. Description: 
+Reproduced on: Windows 10
+Actual result: The button "9" is disabled
+Expected result: A user can press the button "9"
+3. Steps to reproduce:
+Open calc.exe
+Press the button "9"
+4. Severity:
+Major
+5. Priority:
+High
+6. Reproducible:
+Always
+7. Symptom:
+Functional issue
+
+
+1. ID: С3
+Summary: The menu button "О программе" displays symbols when clicked
+2. Description: 
+Reproduced on: Windows 10
+Actual result: The menu button "О программе" contains symbols
+Expected result: When you click the menu button "о программе", we get the user guide
+3. Steps to reproduce:
+Open calc.exe
+Press the menu button "О программе"
+4. Severity:
+Medium
+5. Priority:
+Normal
+6. Reproducible:
+Always
+7. Symptom:
+Localization issue
+
+1. ID: С4
+Summary: The calculator display changes the background color
+2. Description: 
+Reproduced on: Windows 10
+Actual result: In “Инженерный” mode not suppored 2 additional operations:
+"Squaring" and "Square root extraction"
+Expected result: In “Инженерный” mode supports 2 additional operations:
+"Squaring" and "Square root extraction"
+3. Steps to reproduce:
+Open calc.exe
+Press the menu button "Выбор" and "Инженнерный" and "Обычный"
+4. Severity:
+Major
+5. Priority:
+High
+6. Reproducible:
+Always
+7. Symptom:
+Missing Feature
+
+1. ID: С5
+Summary: The button "0" has an extra symbol
+2. Description: 
+Reproduced on: Windows 10
+Actual result: The button "0" contains extra symbol "."
+Expected result: The button "0" must contain only the number "0"
+3. Steps to reproduce:
+Open calc.exe
+Press the menu button "Выбор" and "Инженнерный" and "Обычный"
+4. Severity:
+Minor 
+5. Priority:
+Low
+6. Reproducible:
+Always
+7. Symptom:
+Cosmetic flaw
